@@ -2,7 +2,7 @@
 
 | Project View Page                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------- |
-| <div align="center" width="auto"><img alt="Finance-Tracker login" src="src/assets/images/edu-screenshot.PNG"/></div> |
+| <div align="center" width="auto"><img alt="Finance-Tracker login" src="./project-img.PNG"/></div> |
 
 **Search-Analytics:** real-time search analytics with Rails backend and Vanilla JS frontend for instant user search tracking and trend analysis.
 
