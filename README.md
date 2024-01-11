@@ -1,24 +1,20 @@
-# README
+# 📖 Search-Analytics-Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+| Project View Page                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| <div align="center" width="auto"><img alt="Finance-Tracker login" src="src/assets/images/edu-screenshot.PNG"/></div> |
 
-Things you may want to cover:
+**Search-Analytics:** real-time search analytics with Rails backend and Vanilla JS frontend for instant user search tracking and trend analysis.
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+## 🔗 Frontend Link 
+  > _To access our backend code, please click [here](https://github.com/ab-noori/Search-Analytics-Frontend)._
 
-* Database creation
 
-* Database initialization
+## 🛠 Built With 
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  <ul>
+    <li>Rails</li>
+    <li>PostgreSQL</li>
+  </ul>
