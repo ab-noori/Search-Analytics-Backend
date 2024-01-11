@@ -10,7 +10,7 @@
 
 
 ### 🔗 Frontend Link 
-  > _To access the backend code, please click [here](https://github.com/ab-noori/Search-Analytics-Frontend)._
+  > _To access the frontend code, please click [here](https://github.com/ab-noori/Search-Analytics-Frontend)._
 
 
 ### 🛠 Built With 
